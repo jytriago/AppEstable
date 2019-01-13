@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Configuration</string>
+    <string name="searching">Searching</string>
+    <string name="alert_ok">Ok</string>
+    <string name="detected_devices">Detected devices</string>
+    <string name="wait_until_beacon_connected">You have to wait until your beacon is connected.</string>
+    <string name="checking_firmware">Checking firmware</string>
+    <string name="fetching_data_from_cloud">Fetching data from cloud.</string>
+    <string name="device_firmware_up_to_date">Device firmware is up to date</string>
+    <string name="preparing_for_writing_settings">Preparing for writing settings.</string>
+    <string name="updating_firmware">Updating firmware</string>
+    <string name="preparing_for_update">Preparing for update.</string>
+    <string name="update_successful">Update successful</string>
+    <string name="writing_settings">Writing settings</string>
+    <string name="please_wait">Please wait.</string>
+    <string name="configuration_succeeded">Configuration succeeded.</string>
+    <string name="configure_next_beacon">Configure next beacon</string>
+    <string-array name="tags_array">
+        <item>store entrance</item>
+        <item>cash registers</item>
+        <item>customer service</item>
+        <item>toys</item>
+        <item>electronics</item>
+        <item>clothing</item>
+        <item>beauty</item>
+        <item>groceries</item>
+    </string-array>
+</resources>
